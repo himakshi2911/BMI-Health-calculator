@@ -64,19 +64,19 @@ BMI = weight (kg) ÷ (height in meters)²
    **Expected Result:** BMI ≈ 36.73 and category should be "Obesity"
 
 
-5. **Test 7 – Decimal Values**  
+5. **Test 5 – Decimal Values**  
    - Run the program  
    - Enter weight: 72.5  
    - Enter height: 172.5  
    **Expected Result:** BMI ≈ 24.39 and category should be "Normal Weight"
 
-6. **Test 8 – Very Tall Person**  
+6. **Test 6 – Very Tall Person**  
    - Run the program  
    - Enter weight: 70  
    - Enter height: 200  
    **Expected Result:** BMI = 17.5 and category should be "Underweight"
 
-7. **Test 9 – Very Short Person**  
+7. **Test 7 – Very Short Person**  
    - Run the program  
    - Enter weight: 60  
    - Enter height: 140  
